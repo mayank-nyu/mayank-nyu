@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mayank Ramnani
+- 👀 I’m interested in endpoint software development and everything cybersecurity!
+- 🌱 I’m currently pursuing a Master's in Cybersecurity at NYU.
+- 💞️ I’m looking to collaborate on any cool ideas you might have relating to Linux, Security or just on CTFs! 
+- 📫 Message me on [LinkedIn](https://www.linkedin.com/in/mayank-ramnani/) to reach me!
